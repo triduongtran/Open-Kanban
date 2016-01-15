@@ -1,32 +1,4 @@
 # Open Kanban 
-
-| Open Kanban Metadata |||
-| :------------ | -----------: | -------------------: |
-| Author:     | Joseph Hurtado  | Joseph at AgileLion dot com |
-| Contributor: | Annita Yegorova Hurtado | Annita at AgileLion dot com |
-| Sponsor:    | AgileLion Institute     | [AgileLion.com](http://agilelion.com) |
-| Main Repository:	| Open Kanban on GitHub | [https://github.com/agilelion/Open-Kanban](https://github.com/agilelion/Open-Kanban) |
-| Document Name:	| Open Kanban Main | This page describes the heart of Open Kanban |
-| Release and License:     | 1.00 Rev A |  [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/) |
-
-## Our Movement for a Free Open Kanban
-Open Kanban is a movement to make the core values and principles of Kanban available to all. It is inspired by the Open Source [movement](https://en.wikipedia.org/wiki/Open-source_software) goal to give software users and developers the four essential freedoms of [free software.](http://www.gnu.org/philosophy/free-sw.html)
-
-Likewise Open Kanban's purpose is to give the Kanban community those four freedoms, but now in the context of shared knowledge:  
-1. Freedom to use Open Kanban for any purpose (freedom 1)  
-2. Freedom to study, question, and change Open Kanban as you wish so that it works for you and your organization (freedom 2)  
-3. Freedom to fork or modify copies of Open Kanban to create your own customized version, and give it to anyone (freedom 3)  
-4. Freedom to benefit the entire Open Kanban community with a better solution for all, by sharing your contributions with the main Open Kanban repository. This is possible via your submissions to our main repository on [Github.](https://github.com/agilelion/Open-Kanban) This freedom shows our commitment to communication, collaboration and continuous improvement (freedom 4.)
-
-## Open Kanban Introduction
-Kanban is becoming an important part of Agile Software Development and IT, VersionOne's authoritative 2013 [State of Agile Survey](http://bit.ly/AgileSurvey2013) reveals that Kanban has doubled in adoption among the Agile methodologies, and is frequently used as an alternative to Scrum.
-
-However with growth also came a push to align Kanban (the [Agile and Lean](http://agilelion.com/agile-kanban-cafe/agile-and-lean-influences-where-did-kanban-scrum-scrumban-come-from) method with over four decades of history) with some proprietary ideas and interpretations of what Kanban is. This situation was fully explained in the initial post we shared about the need for Open Kanban, you can read more about it [there.](http://agilelion.com/agile-kanban-cafe/what-is-kanban) 
-
-Open Kanban actually corresponds to what most people familiar with the Agile movement think of when they refer to Kanban itself: An [Agile method](http://agilelion.com/agile-kanban-cafe/what-difference-between-agile-kanban-and-scrum-less-5-minutes) for IT and Software Development; unlike other Agile methods Kanban adds a vast  [Lean](http://en.wikipedia.org/wiki/Lean_software_development) heritage. In [Japan](http://en.wikipedia.org/wiki/Toyota_Production_System) where the Lean movement originated this type of Kanban is called カンバン (Kamban.)
-
-Open Kanban's first objective is to offer a free, open source, collaborative friendly Kanban that is both [Agile and Lean.](http://agilelion.com/agile-kanban-cafe/agile-and-lean-influences-where-did-kanban-scrum-scrumban-come-from)
-
 ## What is Open Kanban?
 
 ### Open Kanban Definition
